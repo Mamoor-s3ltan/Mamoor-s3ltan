@@ -1,7 +1,7 @@
-<h1 align="center"> Hey There 👋 I am <a href="#">Your Name</a> ! </h1>
+<h1 align="center"> Hey There 👋 I am <a href="#">Mamoor Sultan</a> ! </h1>
 
 <p align="center">
-I am working as a <b>Your Role</b> at <b>Your Company</b>, building amazing software solutions & empowering businesses with technology.  
+I am working as a <b>Full Stack Developer</b> at <b>Team Red Hats</b>, building amazing software solutions & empowering businesses with technology.  
 A Passionate Full-Stack Developer & Problem Solver with an intense desire to adopt the latest technologies.
 </p>
 
@@ -11,17 +11,11 @@ A Passionate Full-Stack Developer & Problem Solver with an intense desire to ado
 - 🌱 I’m currently improving my **Problem-Solving Skills**.  
 - 💡 I’m determined to learn, practice, and perfect my craft.  
 - 💻 I mostly prefer working with **JavaScript, Python & their Frameworks**.  
-- 📢 I love sharing my knowledge on professional platforms.  
-- 🎯 Fun fact: I drink coffee like it’s an API call.  
+- 📢 I love sharing my knowledge on professional platforms.   
 - 🚀 Goals: To upgrade myself in various fields of software engineering.  
 
 ---
 
-### 🏆 Awards and Honours:
-- ⚡ Top 5 Finalist at **[Hackathon / Competition Name](#)**  
-- 🥇 Winner of **"Best Developer Award"** in **[Event / Contest Name](#)**  
-
----
 
 ### 🌐 Let's Connect:
 <p align="left">
@@ -35,9 +29,9 @@ A Passionate Full-Stack Developer & Problem Solver with an intense desire to ado
 
 ### ⚒️ Languages and Tools:
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,python,java,mysql,bootstrap,sass,git,github,heroku,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,python,mysql,bootstrap,git,github,figma,vscode,firebase" />
 </p>
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Your Name](https://github.com/Mamoor-s3ltan)
