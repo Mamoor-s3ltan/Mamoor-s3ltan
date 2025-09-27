@@ -34,4 +34,4 @@ A Passionate Full-Stack Developer & Problem Solver with an intense desire to ado
 
 ---
 
-⭐️ From [Your Name](https://github.com/Mamoor-s3ltan)
+⭐️ From [Mamoor Sultan](https://github.com/Mamoor-s3ltan)
